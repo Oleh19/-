@@ -1,0 +1,5 @@
+.weatherImage {
+  margin-top: 29px;
+  display: flex;
+  justify-content: center;
+}
